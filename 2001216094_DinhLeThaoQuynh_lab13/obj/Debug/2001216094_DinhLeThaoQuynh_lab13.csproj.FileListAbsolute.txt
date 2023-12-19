@@ -1,0 +1,10 @@
+D:\Năm ba hk1\Công nghệ .net\lab13\2001216094_DinhLeThaoQuynh_lab13\bin\Debug\2001216094_DinhLeThaoQuynh_lab13.exe.config
+D:\Năm ba hk1\Công nghệ .net\lab13\2001216094_DinhLeThaoQuynh_lab13\bin\Debug\2001216094_DinhLeThaoQuynh_lab13.exe
+D:\Năm ba hk1\Công nghệ .net\lab13\2001216094_DinhLeThaoQuynh_lab13\bin\Debug\2001216094_DinhLeThaoQuynh_lab13.pdb
+D:\Năm ba hk1\Công nghệ .net\lab13\2001216094_DinhLeThaoQuynh_lab13\obj\Debug\_2001216094_DinhLeThaoQuynh_lab13.Properties.Resources.resources
+D:\Năm ba hk1\Công nghệ .net\lab13\2001216094_DinhLeThaoQuynh_lab13\obj\Debug\2001216094_DinhLeThaoQuynh_lab13.csproj.GenerateResource.cache
+D:\Năm ba hk1\Công nghệ .net\lab13\2001216094_DinhLeThaoQuynh_lab13\obj\Debug\2001216094_DinhLeThaoQuynh_lab13.csproj.CoreCompileInputs.cache
+D:\Năm ba hk1\Công nghệ .net\lab13\2001216094_DinhLeThaoQuynh_lab13\obj\Debug\2001216094_DinhLeThaoQuynh_lab13.exe
+D:\Năm ba hk1\Công nghệ .net\lab13\2001216094_DinhLeThaoQuynh_lab13\obj\Debug\2001216094_DinhLeThaoQuynh_lab13.pdb
+D:\Năm ba hk1\Công nghệ .net\lab13\2001216094_DinhLeThaoQuynh_lab13\obj\Debug\_2001216094_DinhLeThaoQuynh_lab13.Form2.resources
+D:\Năm ba hk1\Công nghệ .net\lab13\2001216094_DinhLeThaoQuynh_lab13\obj\Debug\_2001216094_DinhLeThaoQuynh_lab13.Form1.resources
